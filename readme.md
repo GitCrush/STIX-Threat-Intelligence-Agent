@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 ##  Data Ingestion — Ingest MITRE ATT&CK® STIX Bundles
 
-1. Place STIX JSON files (from https://github.com/mitre/cti) in a local directory (e.g., `./stix_data/`).
+1. Place STIX JSON files (from [https://github.com/mitre-attack/attack-stix-data]) in a local directory (e.g., `./stix_data/`).
 2. Run the provided ingestion script to load ATT&CK® (enterprise, mobile, ICS, etc.) and any other STIX datasets:
 
 ```bash
