@@ -1,0 +1,7 @@
+colorama
+fastapi
+openai==0.28
+pymongo
+requests
+stix2
+tabulate
